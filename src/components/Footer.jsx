@@ -1,3 +1,5 @@
+import { YOUTUBE_CHANNEL } from "../data.js";
+
 export default function Footer() {
   return (
     <footer className="footer">
